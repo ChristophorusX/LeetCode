@@ -1,5 +1,5 @@
-# Keep thinking, keep alive
-Until 2018-01-24 17:00:28, I have solved **0** / **686** problems while **126** are still locked.
+# LeetCode
+Until 2018-01-24 17:12:33, I have solved **0** / **686** problems while **126** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
